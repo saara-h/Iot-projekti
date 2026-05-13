@@ -3,7 +3,8 @@ import sys
 import os
 import random
 
-sys.argv=[sys.argv[0], 'Milja']
+#Kovakoodattu nimitieto
+#sys.argv=[sys.argv[0], 'Milja']
 
 global directory_path
 directory_path = os.path.dirname(os.path.abspath(__file__))
