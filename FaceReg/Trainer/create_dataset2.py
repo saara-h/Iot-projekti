@@ -3,7 +3,8 @@ import random
 import os
 import sys
 
-sys.argv=[sys.argv[0], "Milja"]
+#Kovakoodattu nimen määritys
+#sys.argv=[sys.argv[0], "Milja"]
 
 cap = cv2.VideoCapture(0)
 
