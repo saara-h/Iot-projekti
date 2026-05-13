@@ -182,7 +182,7 @@ def main():
                         "facesDetected": session["facesDetected"],
                         "personRecognized": session["personRecognized"],
                         "personName": session["personName"],
-                        "recognitionConfidence": session["bestConfidence"],
+                        "bestConfidence": session["bestConfidence"],
                         "deviceId": "raspberrypi-1"
                     }
 
